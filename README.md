@@ -1,1 +1,1 @@
-# Micro_Percolation
+# Cluster finder algorithm
